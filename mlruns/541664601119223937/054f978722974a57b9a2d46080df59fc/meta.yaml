@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Dropbox/Invited%20Lectures/NITP/Versioning_Collaboration/mlruns/541664601119223937/054f978722974a57b9a2d46080df59fc/artifacts
+end_time: 1753004280042
+entry_point_name: ''
+experiment_id: '541664601119223937'
+lifecycle_stage: active
+run_id: 054f978722974a57b9a2d46080df59fc
+run_name: adaptable-squid-306
+run_uuid: 054f978722974a57b9a2d46080df59fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753004279948
+status: 3
+tags: []
+user_id: Office

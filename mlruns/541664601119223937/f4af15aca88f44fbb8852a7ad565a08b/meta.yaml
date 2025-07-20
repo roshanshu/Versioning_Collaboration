@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Dropbox/Invited%20Lectures/NITP/Versioning_Collaboration/mlruns/541664601119223937/f4af15aca88f44fbb8852a7ad565a08b/artifacts
+end_time: 1753004279547
+entry_point_name: ''
+experiment_id: '541664601119223937'
+lifecycle_stage: active
+run_id: f4af15aca88f44fbb8852a7ad565a08b
+run_name: clean-hog-94
+run_uuid: f4af15aca88f44fbb8852a7ad565a08b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753004279374
+status: 3
+tags: []
+user_id: Office

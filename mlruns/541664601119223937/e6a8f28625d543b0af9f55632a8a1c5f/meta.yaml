@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Dropbox/Invited%20Lectures/NITP/Versioning_Collaboration/mlruns/541664601119223937/e6a8f28625d543b0af9f55632a8a1c5f/artifacts
+end_time: 1753004280509
+entry_point_name: ''
+experiment_id: '541664601119223937'
+lifecycle_stage: active
+run_id: e6a8f28625d543b0af9f55632a8a1c5f
+run_name: melodic-bat-890
+run_uuid: e6a8f28625d543b0af9f55632a8a1c5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753004280340
+status: 3
+tags: []
+user_id: Office

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Dropbox/Invited%20Lectures/NITP/Versioning_Collaboration/mlruns/972051909447038399/4a5dff029ad149d189acb9f71af67f30/artifacts
+end_time: 1753004971611
+entry_point_name: ''
+experiment_id: '972051909447038399'
+lifecycle_stage: active
+run_id: 4a5dff029ad149d189acb9f71af67f30
+run_name: casual-turtle-956
+run_uuid: 4a5dff029ad149d189acb9f71af67f30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753004952680
+status: 3
+tags: []
+user_id: Office

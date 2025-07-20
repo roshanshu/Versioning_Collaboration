@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/763206870161694626/cee456fd9fad438b8bf17931b1805fe4/artifacts
+end_time: 1753016216338
+entry_point_name: ''
+experiment_id: '763206870161694626'
+lifecycle_stage: active
+run_id: cee456fd9fad438b8bf17931b1805fe4
+run_name: youthful-eel-549
+run_uuid: cee456fd9fad438b8bf17931b1805fe4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753016206123
+status: 3
+tags: []
+user_id: Office

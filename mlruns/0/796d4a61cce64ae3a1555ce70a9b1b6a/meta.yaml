@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/796d4a61cce64ae3a1555ce70a9b1b6a/artifacts
+end_time: 1753015885648
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 796d4a61cce64ae3a1555ce70a9b1b6a
+run_name: defiant-goose-811
+run_uuid: 796d4a61cce64ae3a1555ce70a9b1b6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753015865491
+status: 4
+tags: []
+user_id: Office

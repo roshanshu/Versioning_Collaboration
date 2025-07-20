@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Dropbox/Invited%20Lectures/NITP/Versioning_Collaboration/mlruns/452746014112681277/e373b19154aa4d59854b361ccc010d06/artifacts
+end_time: 1753003957093
+entry_point_name: ''
+experiment_id: '452746014112681277'
+lifecycle_stage: active
+run_id: e373b19154aa4d59854b361ccc010d06
+run_name: Best_Model_Run
+run_uuid: e373b19154aa4d59854b361ccc010d06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753003950377
+status: 3
+tags: []
+user_id: Office

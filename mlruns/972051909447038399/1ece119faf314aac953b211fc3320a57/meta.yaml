@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Dropbox/Invited%20Lectures/NITP/Versioning_Collaboration/mlruns/972051909447038399/1ece119faf314aac953b211fc3320a57/artifacts
+end_time: 1753004961334
+entry_point_name: ''
+experiment_id: '972051909447038399'
+lifecycle_stage: active
+run_id: 1ece119faf314aac953b211fc3320a57
+run_name: sedate-squirrel-177
+run_uuid: 1ece119faf314aac953b211fc3320a57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753004961210
+status: 3
+tags: []
+user_id: Office
